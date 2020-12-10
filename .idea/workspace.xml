@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a3463f45-cc0d-42a1-8b46-fb72d6961c70" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/su_kien_ban_phim.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tester.html" beforeDir="false" afterPath="$PROJECT_DIR$/tester.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,6 +40,16 @@
       <recent name="C:\Users\666\WebstormProjects\untitled6" />
     </key>
   </component>
+  <component name="RunManager">
+    <configuration name="su_kien_ban_phim.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/untitled6/su_kien_ban_phim.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.su_kien_ban_phim.html" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -56,7 +66,7 @@
       <workItem from="1607304291558" duration="2443000" />
       <workItem from="1607311299019" duration="5851000" />
       <workItem from="1607323417062" duration="930000" />
-      <workItem from="1607586058522" duration="5399000" />
+      <workItem from="1607586058522" duration="8072000" />
     </task>
     <servers />
   </component>
