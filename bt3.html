@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>bt3</title>
+</head>
+<body onload="">
+<p>Nhập Số</p>
+<input type="text" id='so' onkeyup="myFunction()"/>
+<p id="s"></p>
+<script>
+    function myFunction() {
+        let x = document.getElementById('so');
+        let y = 10 - x;
+        if (y >= 0) {
+            document.getElementById("s").in = x.value;
+            x.value = ""
+        }else {
+            document.getElementById('s').innerText = 'không phải số'
+        }
+    }
+</script>
+</body>
+</html>

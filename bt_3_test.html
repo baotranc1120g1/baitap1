@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>bt3test</title>
+</head>
+<body>
+<h1>Bài 3: Ấn bàn phím từ 1 tới 9</h1>
+<input type="text" size="50" onkeydown="key(event)">
+<script>
+    function key() {
+        let x = event.key;
+        if (x >= 0 && x <= 9) {
+            alert("Bạn đã ấn: " + x)
+        } else {
+            alert("Phím bạn ấn không phải số!")
+        }
+    }
+</script>
+</body>
+</html>
